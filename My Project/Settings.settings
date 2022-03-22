@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="BKcolor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FontColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="networksave" Type="System.String" Scope="User">
+      <Value Profile="(Default)">K:\Quality\GOGO_Task.txt</Value>
+    </Setting>
+    <Setting Name="WarnTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00:01:00</Value>
+    </Setting>
+    <Setting Name="SoundFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\kevin\Desktop\Ring01.wav</Value>
+    </Setting>
+    <Setting Name="SoundCheck" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ToolTipMsgStop" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Do not forget to add a stop time!</Value>
+    </Setting>
+    <Setting Name="Dropdownreason" Type="System.String" Scope="User">
+      <Value Profile="(Default)">K:\Quality\Drop.txt</Value>
+    </Setting>
+    <Setting Name="ToolTipMsgStart" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Did you forgot to start?</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
