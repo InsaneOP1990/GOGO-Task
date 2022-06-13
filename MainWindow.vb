@@ -139,7 +139,7 @@ fail2:
             file.Close()
             GoTo Success
 ErrorHandler:
-            MsgBox("Something went wrong or A program has data storage open. Call Kevin if you need help.")
+            MsgBox("Something went wrong or A program has data storage open. Contact the programer if you need help.")
             GoTo Done
 Success:
             MsgBox("Data Sumbited")

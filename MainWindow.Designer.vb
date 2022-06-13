@@ -355,6 +355,7 @@ Partial Class MainWindow
         Me.Controls.Add(Me.Stop_Button)
         Me.Controls.Add(Me.Start_Button)
         Me.Controls.Add(Me.MenuStrip1)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MainMenuStrip = Me.MenuStrip1
         Me.Name = "MainWindow"
         Me.Text = "GOGO_Task"
